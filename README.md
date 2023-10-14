@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://github.com/CookingWine"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Good%2C%20Day!%22);Hello!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://github.com/CookingWine"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Good%2C%20Day!%22);独立天地间，清风洒兰雪&center=true&size=27"> </a> </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br />
