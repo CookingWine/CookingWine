@@ -6,9 +6,6 @@
   <samp>
     😆 欢迎来到我的个人简介!
     <br />
-    <br />😘 看看我的统计数据 
-    <br />
-    <br />
   </samp>
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CookingWine&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a"/> </a> 
