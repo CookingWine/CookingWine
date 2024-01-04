@@ -12,4 +12,3 @@
 <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookingWine&layout=compact&theme=dark&hide_border=true" /> </a>
 </p>
 <br />
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CookingWine" /> </div>
