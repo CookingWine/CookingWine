@@ -7,8 +7,5 @@
     😆 欢迎来到我的个人简介!
     <br />
   </samp>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CookingWine&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a"/> </a> 
-<a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookingWine&layout=compact&theme=dark&hide_border=true" /> </a>
 </p>
 <br />
